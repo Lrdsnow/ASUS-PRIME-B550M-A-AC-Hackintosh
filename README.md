@@ -10,6 +10,6 @@ Wifi
 
 ### Tested On:
 
-MacOS 12.1 Monterey
-MacOS 11.0 Big Sur
-MacOS 10.15 Catalina
+##### MacOS 12.1 Monterey
+##### MacOS 11.0 Big Sur
+##### MacOS 10.15 Catalina
