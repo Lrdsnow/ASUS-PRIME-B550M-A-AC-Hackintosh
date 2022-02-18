@@ -1,12 +1,15 @@
 # ASUS PRIME B550M-A AC Hackintosh
 
-What Works:
+### What Works:
+
 Everything Exept What Doent Work.
 
-What Does Not Work:
+### What Does Not Work:
+
 Wifi
 
-Tested On:
+### Tested On:
+
 MacOS 12.1 Monterey
 MacOS 11.0 Big Sur
 MacOS 10.15 Catalina
